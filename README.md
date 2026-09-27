@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mamitina
+# Hello, I'm Mamitina
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mamitina37&theme=dark" />
