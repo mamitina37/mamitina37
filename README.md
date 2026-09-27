@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mamitina
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TON_USERNAME&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=mamitina37&theme=dark" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
